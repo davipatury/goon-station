@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+LAST_COMPILE_TIME: 1457219709
+DIR: code code\datums\critter_mobs\health code\mob\living\carbon code\mob\living\silicon code\mob\living\silicon\ai code\mob\living\silicon\hivebot code\obj\item\clothing code\obj\item\device code\obj\item\device\pda2 code\obj\item\food code\WorkInProgress interface 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 510.1327
+WINDOW: code\WorkInProgress\computer3\mainframe2\utilities.dm;code\WorkInProgress\MechanicMadness.dm
+FILE: code\WorkInProgress\MechanicMadness.dm
+*/
+// END_INTERNALS

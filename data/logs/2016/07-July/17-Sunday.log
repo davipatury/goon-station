@@ -1,0 +1,61 @@
+
+
+Starting up. 15:23.33
+---------------------
+
+[15:23:47] ADMIN: Loading jobban_rank
+[15:23:47] ADMIN: Jobban_keylist was empty
+[15:23:47] ADMIN: Updating jobbanfile!
+[15:23:47] ADMIN: Loading oocban_rank
+[15:23:47] ADMIN: oocban_keylist was empty
+[15:23:47] ADMIN: Updating jobbanfile!
+ADMIN: davipatury = Host
+[15:25:36] ACCESS: Login: Davipatury from 127.0.0.1
+[15:26:22] ADMIN: Davipatury delayed the game start.
+[15:26:48] ADMIN: Davipatury set the mode as extended.
+[15:28:28] ADMIN: Davipatury : Plain Messaged Davipatury: ALO?
+[15:28:33] ADMIN: Davipatury displayed an alert to Davipatury with the message "STOP!"
+[15:28:39] AHELP: Davipatury PM'd Davipatury: A
+[15:28:51] ADMIN: Davipatury forced Davipatury to view the rules
+[15:28:57] ADMIN: Davipatury forced Davipatury to view the rules
+[15:29:01] ADMIN: Davipatury has given Davipatury the ability to play music and use dectalk.
+[15:29:03] ADMIN: Davipatury has removed Davipatury's ability to play music and use dectalk.
+[15:29:04] ADMIN: Davipatury has given Davipatury the ability to play music and use dectalk.
+[15:30:02] ADMIN: Davipatury [DEAD] has started the game.
+[15:30:05] ACCESS: Login: Davipatury [DEAD] from 127.0.0.1
+[15:30:47] SAY: Shitty Bill (NPC) : Got any bees?
+[15:31:10] SAY: Shitty Bill (NPC) : Got a light, Colonel?
+[15:31:20] SAY: Eggwrap Ward (Davipatury) [DEAD] (GHOST): a
+[15:31:24] SAY: Shitty Bill (NPC) : Nice podd, dingus.
+[15:31:33] SAY: Shitty Bill (NPC) : Hello Donald "Don" Glabs.
+[15:31:48] ADMIN: Eggwrap Ward (Davipatury) [DEAD] toggled debugging to 1
+[15:31:49] ADMIN: Eggwrap Ward (Davipatury) [DEAD] toggled debugging to 0
+[15:32:23] SAY: Father Jack (NPC) : FECK!
+[15:32:28] SAY: Shitty Bill (NPC) : 'Ey, it's Donald "Don" Glabs.
+[15:32:30] SAY: Shitty Bill (NPC) : Got any smokes?
+[15:32:49] SAY: Shitty Bill (NPC) : You a narc?
+[15:33:06] SAY: Shitty Bill (NPC) : I ever tell you 'bout that time I was in an all-saxophone band?
+[15:33:15] SAY: Shitty Bill (NPC) : Nice wheels, 'Traser.
+[15:33:45] ADMIN: Eggwrap Ward (Davipatury) [DEAD] toggled the blood system off.
+[15:33:46] ADMIN: Eggwrap Ward (Davipatury) [DEAD] toggled the blood system on.
+[15:34:05] SAY: Shitty Bill (NPC) : Man, I sure don't miss the wizzers.
+[15:34:25] ADMIN: Eggwrap Ward (Davipatury) [DEAD] forced a vote to change mode
+[15:34:47] SAY: Shitty Bill (NPC) : How's it hangin' Donald "Don" Glabs.
+[15:35:25] VOTE: Voting closed, result was extended
+[15:35:32] ADMIN: Eggwrap Ward (Davipatury) [DEAD] delayed the server restart.
+[15:35:35] GAME: Rebooting due to mode vote
+
+
+Starting up. 15:45.09
+---------------------
+
+[15:45:16] ADMIN: Loading jobban_rank
+[15:45:16] ADMIN: Jobban_keylist was empty
+[15:45:16] ADMIN: Updating jobbanfile!
+[15:45:16] ADMIN: Loading oocban_rank
+[15:45:16] ADMIN: oocban_keylist was empty
+[15:45:16] ADMIN: Updating jobbanfile!
+Saved mode is 'extended'
+ADMIN: davipatury = Host
+[15:47:33] ACCESS: Login: Davipatury from 127.0.0.1
+[15:48:10] ADMIN: Davipatury delayed the game start.
